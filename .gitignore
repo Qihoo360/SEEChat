@@ -1,0 +1,8 @@
+*.pyc 
+*.jpg
+*.bin
+*.model
+*.pth
+
+test_ckpt/
+images/
